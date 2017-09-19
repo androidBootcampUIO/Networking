@@ -7,4 +7,9 @@
     android:orientation="vertical"
     tools:context="uio.androidbootcamp.networking.ResultsActivity">
 
+    <ListView
+        android:id="@+id/pagination_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
 </LinearLayout>
